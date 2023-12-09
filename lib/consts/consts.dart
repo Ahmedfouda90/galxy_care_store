@@ -1,0 +1,10 @@
+import 'package:flutter/material.dart';
+Color bottomBarColor00=const Color(0xffBF00C2);
+Color whiteColor00=const Color(0xffEEEEEE);
+Color whiteColor11=const Color(0xFFEEEEEE);
+Color blackColor00=const Color(0xff1D1D1D);
+Color greyColor00=const Color(0xFF939393);
+Color yellowColor00=const Color(0xFFFFD800);
+Color greenColor00=const Color(0xFF05FF00);
+Color backgroundColor00=const  Color(0xFF2B2A29);
+  Color hintColor00=const  Color(0xFFC2C2C2);
